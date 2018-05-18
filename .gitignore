@@ -1,0 +1,6 @@
+*.user
+.idea/.idea.sample/.idea
+.vs
+.idea
+bin
+obj
